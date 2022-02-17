@@ -1,2 +1,0 @@
-# basic
-random BASIC scripts
